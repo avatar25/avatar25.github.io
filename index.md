@@ -17,9 +17,3 @@ Welcome to my personal site!
 ## ✨ About Me
 
 I'm passionate about technology, learning new things, and building cool stuff that makes a difference.
-
-> 💡 **Fun Fact:** I once lost 26 kg in just 5 months—and it completely changed how I approach life and discipline!
-
-## 📫 Contact
-
-Reach out via [GitHub](https://github.com/avatar25) or open an issue!

@@ -1,0 +1,7 @@
+/* Make the author avatar larger */
+.author__avatar img,
+.page__author-avatar img {
+  width: 160px !important;
+  height: 160px !important;
+  border-radius: 50%;
+}

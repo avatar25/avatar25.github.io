@@ -3,7 +3,7 @@ layout: default
 title: Welcome to Avatar25's Page
 ---
 
-# 👋 Hi, I'm Avatar25
+# 👋 Hi, I'm Shiben
 
 Welcome to my personal site!
 
